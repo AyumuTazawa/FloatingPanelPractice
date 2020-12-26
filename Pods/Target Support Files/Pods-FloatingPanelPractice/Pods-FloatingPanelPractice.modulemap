@@ -1,0 +1,6 @@
+framework module Pods_FloatingPanelPractice {
+  umbrella header "Pods-FloatingPanelPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_FloatingPanelPractice_FloatingPanelPracticeUITests : NSObject
+@end
+@implementation PodsDummy_Pods_FloatingPanelPractice_FloatingPanelPracticeUITests
+@end
